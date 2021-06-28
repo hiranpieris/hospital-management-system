@@ -1,0 +1,17 @@
+<component name="libraryTable">
+  <library name="lib">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/src/lib/flatlaf-0.44-javadoc.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/json-simple-2.1.2.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/KControls.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/darcula-1.0.0.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/itextpdf-5.5.9.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/commons-io-2.6.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/AbsoluteLayout.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/flatlaf-0.44.jar!/" />
+      <root url="jar://$PROJECT_DIR$/src/lib/flatlaf-0.44-sources.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
